@@ -2,14 +2,16 @@
 
 🔥 Stop using the slow free stuff! Come try the VIP stuff! This tool is specially designed for online business: ➤ Share to join groups as fast as lightning ⚡ ➤ Block protection system (Anti-Ban Logic) 🛡️ ➤ Does not consume much internet 📉
 
-🖥️ Source Code Python: (https://github.com/CyraxmodDOne/-CYRAX-SHARE-FACEBOOK-VIP---PREMIUM-VERSION-/tree/main
 📲 How to use on Termux:
 1. Install the plugin:
 
-pkg update && pkg upgrade -y
-pkg install python -y
-pip install aiohttp requests rich faker
+$ pkg update && pkg upgrade -y
 
+$ pkg install python -y
+
+$ pip install aiohttp requests rich faker
+
+$ 
 2. Download or create a code file (Paste the login code). 3. Create a token.txt and cookie.txt file, enter the login data, and copy both files to sdcard. 4. Run the code:
 ⚙️ Run command:
 
@@ -27,3 +29,5 @@ https://t.me/LKhufraToolSMM
 🤖 Bot Free
 
 https://t.me/Fack_View_24bot
+
+contact admin https://t.me/OptionsPremium01
