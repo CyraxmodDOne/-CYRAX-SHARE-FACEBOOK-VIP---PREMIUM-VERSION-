@@ -11,7 +11,8 @@ $ pkg install python -y
 
 $ pip install aiohttp requests rich faker
 
-$ 
+$ git clone https://github.com/CyraxmodDOne/-CYRAX-SHARE-FACEBOOK-VIP---PREMIUM-VERSION-
+
 2. Download or create a code file (Paste the login code). 3. Create a token.txt and cookie.txt file, enter the login data, and copy both files to sdcard. 4. Run the code:
 ⚙️ Run command:
 
